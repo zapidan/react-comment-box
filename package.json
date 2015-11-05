@@ -1,0 +1,10 @@
+{
+  "name": "react-comment-box",
+  "version": "1.0.0",
+  "description": "Trying the React Tutorial",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
