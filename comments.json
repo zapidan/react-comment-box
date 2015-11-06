@@ -1,10 +1,10 @@
 [
     {
         "author": "Daniela",
-        "comment": "I am having fun!"
+        "text": "I am having fun!"
     },
     {
         "author": "Jorge",
-        "comment": "I am sleeping"
+        "text": "I am watching TV"
     }
 ]
