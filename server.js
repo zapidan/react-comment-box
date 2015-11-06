@@ -21,10 +21,6 @@ app.get('/api/comments', function(req, res) {
   });
 });
 
-app.get('/', function(req, res) {
-  res.redirect('/api/comments');
-});
-
 app.post('/api/comments', function(req, res) {
   fs.readFile(COMMENTS_FILE, function(err, data) {
     var comments = JSON.parse(data);
